@@ -5,9 +5,9 @@
 
 ```apt install git -y```
 
-```git clone https://github.com/htr-tech/bash2mp4```
+```git clone https://github.com/9xhacker/9X-HACKER-V4MP4```
 
-```cd bash2mp4```
+```cd 9X-HACKER-V4MP4```
 
 ```bash setup.sh```
 
